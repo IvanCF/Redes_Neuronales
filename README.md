@@ -1,2 +1,2 @@
 # Redes_Neuronales
-Practica de laboratorio
+Práctica de laboratorio
